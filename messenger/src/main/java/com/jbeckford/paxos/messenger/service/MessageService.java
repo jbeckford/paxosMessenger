@@ -1,7 +1,5 @@
 package com.jbeckford.paxos.messenger.service;
 
-import java.text.SimpleDateFormat;
-import java.util.Date;
 import java.util.List;
 
 import com.jbeckford.paxos.messenger.model.Message;
